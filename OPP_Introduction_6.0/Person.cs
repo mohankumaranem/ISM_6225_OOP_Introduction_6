@@ -6,6 +6,7 @@ namespace OOP_Introduction
     {
         public string firstName;
         public string lastName;
+        public DateTime DateOfBirth;
 
         // class variables as properties
         //public string firstName { get; set; }

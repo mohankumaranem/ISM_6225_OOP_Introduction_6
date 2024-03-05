@@ -7,6 +7,7 @@ namespace OOP_Introduction
         static void Main(string[] args)
         {
             // initial access attempt
+            
             Person Student = new Person
             {
                 firstName = "John",
